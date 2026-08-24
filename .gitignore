@@ -42,3 +42,10 @@ repo/
 ### Misc ###
 *.log
 .workbuddy/
+
+### Texture work files ###
+textures_redesign/
+textures_out/
+mc_vanilla_extract/
+temp_*.png
+ice_ether_v*.png
