@@ -35,7 +35,6 @@ public class ModCreativeTab {
                         output.accept(ModItem.ICE_CHESTPLATE.get());
                         output.accept(ModItem.ICE_LEGGINGS.get());
                         output.accept(ModItem.ICE_BOOTS.get());
-                        output.accept(ModItem.CARDBOARD.get());
                     })
                     .build());
 

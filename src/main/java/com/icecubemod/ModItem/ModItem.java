@@ -77,9 +77,6 @@ public class ModItem {
                     (props) -> new ArmorItem(IceArmorMaterial.ICE, ArmorItem.Type.BOOTS,
                             new Item.Properties().durability(ArmorItem.Type.BOOTS.getDurability(37))));
 
-    public static DeferredItem<Item> CARDBOARD =
-            ITEMS.registerSimpleItem("material/cardboard", new Item.Properties());
-
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
