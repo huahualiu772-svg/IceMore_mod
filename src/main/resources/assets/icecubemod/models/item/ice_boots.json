@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "icecubemod:item/ice_boots"
+                 },
+    "parent":  "item/generated"
+}

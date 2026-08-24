@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "icecubemod:item/ice_leggings"
+                 },
+    "parent":  "item/generated"
+}

@@ -1,0 +1,22 @@
+{
+  "itemGroup.icecubemod.ice_tab": "IceMore",
+  "block.icecubemod.ice_ether_block": "Ice Ether Block",
+  "item.icecubemod.ice_ether_ingot": "Ice Ether Ingot",
+  "item.icecubemod.ice_bucket": "Ice Bucket",
+  "item.icecubemod.ice_bucket_filled": "Water Ice Bucket",
+  "item.icecubemod.ice_stick": "Ice Stick",
+  "item.icecubemod.ice_sword": "Ice Sword",
+  "item.icecubemod.ice_pickaxe": "Ice Pickaxe",
+  "item.icecubemod.ice_axe": "Ice Axe",
+  "item.icecubemod.ice_shovel": "Ice Shovel",
+  "item.icecubemod.ice_hoe": "Ice Hoe",
+  "item.icecubemod.ice_helmet": "Ice Helmet",
+  "item.icecubemod.ice_chestplate": "Ice Chestplate",
+  "item.icecubemod.ice_leggings": "Ice Leggings",
+  "item.icecubemod.ice_boots": "Ice Boots",
+  "item.icecubemod.material.cardboard": "Card Board",
+
+  "icecubemod.configuration.title": "IceMore Config",
+  "icecubemod.configuration.section.icecubemod.common.toml": "IceMore Config",
+  "icecubemod.configuration.section.icecubemod.common.toml.title": "IceMore Config"
+}

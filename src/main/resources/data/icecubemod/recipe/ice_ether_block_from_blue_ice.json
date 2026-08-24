@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "id": "icecubemod:ice_ether_block",
+    "count": 1
+  }
+}

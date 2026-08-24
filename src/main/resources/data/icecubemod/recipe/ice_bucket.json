@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "icecubemod:ice_ether_ingot"
+    }
+  },
+  "result": {
+    "id": "icecubemod:ice_bucket",
+    "count": 1
+  }
+}

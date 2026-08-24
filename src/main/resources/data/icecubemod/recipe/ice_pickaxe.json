@@ -1,0 +1,20 @@
+﻿{
+    "key":  {
+                "S":  {
+                          "item":  "icecubemod:ice_stick"
+                      },
+                "I":  {
+                          "item":  "icecubemod:ice_ether_ingot"
+                      }
+            },
+    "pattern":  [
+                    "III",
+                    " S ",
+                    " S "
+                ],
+    "result":  {
+                   "id":  "icecubemod:ice_pickaxe",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

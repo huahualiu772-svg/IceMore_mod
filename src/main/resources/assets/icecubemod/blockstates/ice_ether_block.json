@@ -1,0 +1,5 @@
+﻿{
+  "variants": {
+    "": { "model": "icecubemod:block/ice_ether_block" }
+  }
+}
